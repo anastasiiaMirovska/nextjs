@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "better-sqlite3": "^11.1.2",
+    "@types/better-sqlite3": "^7.6.11",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.4"
